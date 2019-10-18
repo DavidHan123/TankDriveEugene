@@ -14,7 +14,6 @@ import edu.wpi.first.wpilibj.drive.DifferentialDrive;
 
 // import edu.wpi.first.wpilibj.IterativeRobot;
 import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;
-import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;
 
 // import com.ctre.phoenix.motorcontrol.can.*;
 // import com.ctre.phoenix.motorcontrol.can.TalonSRX;
